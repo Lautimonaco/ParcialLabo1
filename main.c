@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+#include "Parcial.h"
+#include "FuncionesGet.h"
 
 #define MAX 1000
 

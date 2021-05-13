@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+#include "Parcial.h"
+#include "FuncionesGet.h"
 
 
 void hardcorecontribuyenes(eContribuyente contribuyente[],int cant)
