@@ -30,6 +30,10 @@ int main()
                 hardcorecontribuyenes(contribueyente, MAX);
                 break;
             case '2':
+                modificacionDeEmpleado(modificacionDeEmpleado, MAX);
+                break;
+            case '3':
+
 
         }
 }
